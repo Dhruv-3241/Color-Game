@@ -1,0 +1,1 @@
+In this project I have built a Color Game in which the player has to guess the color by taking help from the given RGB values on the web page. The game involves the use of HTML, CSS and JavaScript at its backend.
